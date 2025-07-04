@@ -1,76 +1,63 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F7B731&size=35&center=true&vCenter=true&width=600&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Maryam+Muzzammil+💻;+Full+Stack+Developer+from+Pakistan" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7B731&center=true&vCenter=true&width=600&height=70&lines=Hey+there!+👋;I'm+Maryam+Muzzammil+💻;Full+Stack+Dev+from+Pakistan" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">Building Scalable Web Apps with Laravel, React, Next.js & .NET ⚙️</h3>
+<h3 align="center">💡 Turning ideas into code with 💛 Laravel, React, Next.js & .NET</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maryammuzzammil&style=for-the-badge&color=F7B731&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=maryammuzzammil&style=flat-square&color=F7B731&label=Profile+Views" alt="Profile Views"/>
 </p>
 
-<br/>
-<hr/>
+---
 
-<h2 align="center">🚀 Tech Stack & Tools</h2>
+<h2 align="center">🚀 Tech Stack</h2>
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" style="padding: 20px; background-color: rgba(255,255,255,0.04); border-radius: 12px;">
-      <!-- Frontend -->
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" /><br/><br/>
-      <!-- Backend & DB -->
-      <img src="https://skillicons.dev/icons?i=php,laravel,dotnet,mysql,postgres" />
-      <img src="https://img.shields.io/badge/Convex-343a40?style=for-the-badge&logoColor=white" /><br/><br/>
-      <!-- Tools & Platforms -->
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-      <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,php,laravel,dotnet,mysql,postgres,git,github,vscode,postman" />
+  <br/>
+  <img src="https://img.shields.io/badge/Convex-222222?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+</p>
 
-<br/>
-<hr/>
+---
 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td align="center" colspan="2" style="padding-bottom: 20px;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maryammuzzammil&theme=tokyonight" width="90%" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 10px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=maryammuzzammil&theme=tokyonight&hide_border=false&border_radius=12" width="100%" />
-      </td>
-      <td align="center" style="padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=maryammuzzammil&show_icons=true&theme=tokyonight&hide_border=false&border_radius=12" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2" style="padding-top: 20px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryammuzzammil&layout=donut&theme=tokyonight&hide_border=false&border_radius=12" width="50%" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maryammuzzammil&theme=radical" width="90%" /><br/><br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=maryammuzzammil&theme=radical&hide_border=false&border_radius=12" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maryammuzzammil&show_icons=true&theme=radical&hide_border=false&border_radius=12" width="49%" />
+  
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryammuzzammil&layout=donut&theme=radical&hide_border=false&border_radius=12" width="40%" />
 </div>
 
-<br/>
-<hr/>
+---
 
-<h2 align="center">🤝 Connect With Me</h2>
+<h2 align="center">✨ About Me</h2>
 
-<div align="center" style="margin-top: 15px;">
+<p align="center">
+  👩‍💻 I'm a CS student at Salim Habib University and a Full Stack Developer building web solutions with <b>Laravel, React, Next.js, .NET</b>.<br/>
+  💾 Working with MySQL, PostgreSQL & Convex | Always exploring, always building.<br/>
+  🚀 Currently open to internships & junior developer roles!
+</p>
+
+---
+
+<h2 align="center">📬 Connect With Me</h2>
+
+<p align="center">
   <a href="mailto:maryam.muzzammil99@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-F03C2E?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/maryam-muzzammil/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/xenon.biz/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-</div>
+</p>
 
-<br/><br/>
+<br/>
+<p align="center">💻 Built with love, coffee ☕, and Laravel magic ✨</p>
